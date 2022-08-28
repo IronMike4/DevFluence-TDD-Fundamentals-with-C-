@@ -1,0 +1,10 @@
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\Example\Example\bin\Debug\netcoreapp3.1\Example.deps.json
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\Example\Example\bin\Debug\netcoreapp3.1\Example.dll
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\Example\Example\bin\Debug\netcoreapp3.1\Example.pdb
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\Example\Example\obj\Debug\netcoreapp3.1\Example.csproj.AssemblyReference.cache
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\Example\Example\obj\Debug\netcoreapp3.1\Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\Example\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfoInputs.cache
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\Example\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfo.cs
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\Example\Example\obj\Debug\netcoreapp3.1\Example.csproj.CoreCompileInputs.cache
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\Example\Example\obj\Debug\netcoreapp3.1\Example.dll
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\Example\Example\obj\Debug\netcoreapp3.1\Example.pdb

@@ -1,0 +1,10 @@
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.deps.json
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.dll
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.pdb
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfo.cs
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.dll
+C:\Users\michaelmah\OneDrive - Derivco (Pty) Limited\Documents\Training\DevFluence TDD Fundamentals with C#\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.pdb
